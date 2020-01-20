@@ -1,10 +1,5 @@
 # FLS VoteAPP Laravel Version
 
-## About
-<img src="https://img.shields.io/badge/Build-Developement-yellow.svg">
-
-Versi laravel dari voteApp original, see [https://github.com/creativefls/voteApp](https://github.com/creativefls/voteApp)
-
 ## Screenshot
 <table>
   <tr>
@@ -40,6 +35,3 @@ php artisan migrate:refresh --seed
 ```
 php artisan serve
 ```
-
-### Author
-<a href="https://github.com/idindrakusuma"><img src="https://img.shields.io/badge/idindrakusuma-Github-lightgrey.svg"> </a> <a href="https://fb.com/id.indrakusuma"> <img src="https://img.shields.io/badge/idindrakusuma-Facebook-blue.svg"></a>
